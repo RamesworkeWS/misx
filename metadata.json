@@ -1,0 +1,6 @@
+{
+  "name": "VEE HAIR PARIS – Salon de Coiffure Créatif & Indépendant",
+  "description": "Refonte éditoriale du studio VEE HAIR PARIS au 64 rue Jean-Pierre Timbaud, 75011 Paris. Coupes personnalisées, balayages sur-mesure et prise de rendez-vous en ligne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
